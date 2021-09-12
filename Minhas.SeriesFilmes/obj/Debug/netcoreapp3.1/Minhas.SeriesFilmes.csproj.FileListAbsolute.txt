@@ -1,0 +1,13 @@
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\bin\Debug\netcoreapp3.1\Minhas.SeriesFilmes.exe
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\bin\Debug\netcoreapp3.1\Minhas.SeriesFilmes.deps.json
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\bin\Debug\netcoreapp3.1\Minhas.SeriesFilmes.runtimeconfig.json
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\bin\Debug\netcoreapp3.1\Minhas.SeriesFilmes.runtimeconfig.dev.json
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\bin\Debug\netcoreapp3.1\Minhas.SeriesFilmes.dll
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\bin\Debug\netcoreapp3.1\Minhas.SeriesFilmes.pdb
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.csprojAssemblyReference.cache
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.AssemblyInfoInputs.cache
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.AssemblyInfo.cs
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.dll
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.pdb
+C:\Users\Uriel Gomes\Desktop\Minhas.SeriesFilmes\obj\Debug\netcoreapp3.1\Minhas.SeriesFilmes.genruntimeconfig.cache
